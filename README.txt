@@ -1,17 +1,17 @@
-¡´ »¡©ú
+â— èªªæ˜Ž
 
-1. ¹CÀ¸¤¤¦³¨â¥x©Z§J¡A¤À§O¬°ª±®a1»Pª±®a2¡A¨ä¾Þ§@¤èªk¤À§O¬°¡G
-   ¢u ª±®a1¡G
-      ¡÷ WASD¤À§O±±¨î«e«á²¾°Ê¡B¥ª¥kÂà¦V¡F
-„Ï    ¡÷ ªÅ¥ÕÁäµo®g¯¥¼u§ðÀ»¡C
-   ¢| ª±®a2¡G
-„Ï    ¡÷ ¤è¦VÁä¤W¤U¥ª¥k¤À§O±±¨î«e«á²¾°Ê¡B¥ª¥kÂà¦V¡F
-„Ï    ¡÷ Enterµo®g¯¥¼u§ðÀ»¡C
+1. éŠæˆ²ä¸­æœ‰å…©å°å¦å…‹ï¼Œåˆ†åˆ¥ç‚ºçŽ©å®¶1èˆ‡çŽ©å®¶2ï¼Œå…¶æ“ä½œæ–¹æ³•åˆ†åˆ¥ç‚ºï¼š
+   â”œ çŽ©å®¶1ï¼š
+ Â  Â   â†’ WASDåˆ†åˆ¥æŽ§åˆ¶å‰å¾Œç§»å‹•ã€å·¦å³è½‰å‘ï¼›
+  Â    â†’ ç©ºç™½éµç™¼å°„ç ²å½ˆæ”»æ“Šã€‚
+ Â  â”” çŽ©å®¶2ï¼š
+  Â  Â  â†’ æ–¹å‘éµä¸Šä¸‹å·¦å³åˆ†åˆ¥æŽ§åˆ¶å‰å¾Œç§»å‹•ã€å·¦å³è½‰å‘ï¼›
+  Â    â†’ Enterç™¼å°„ç ²å½ˆæ”»æ“Šã€‚
 
-2. ¦¹¹CÀ¸ª±ªk¬°³æ¾÷Âù¤H¹ï¾Ô¡A©¼¦¹ªº¦å¶q¬Ò¦bµe­±¤W¤è¥i¬Ý¨£¡A­Y¾D¨ì¯¥¼uÃz¬µ§ðÀ»«á¡A«h·|®Ú¾Úª±®a»PÃz¬µÂIªº¬Û¹ï¶ZÂ÷°µµ¥¤ñ¨Òªº­pºâ¡A¨Ã³y¦¨¶Ë®`¡F¥t¥~¡A¯¥¼u¤£¤À¼Ä§Ú¡A­Yª±®a¤£¤p¤ß»P¦Û¤vµo®gªº¯¥¼u©Ò³y¦¨ªºÃz¬µ¤Ó¹L±µªñªº¸Ü¤]¦³¥i¯à·|¾D¨üªi¤Î¡C³Ì«á¡A±N¹ï¤âÀ»±þ«K¥iÄ¹±o¸Ó§½¤À¼Æ¡A­Y²v¥ý¨ú±o3¤ÀªÌ«h¦¨¬°¸Ó³õ¹CÀ¸ªºÀò³ÓªÌ¡C
+2. æ­¤éŠæˆ²çŽ©æ³•ç‚ºå–®æ©Ÿé›™äººå°æˆ°ï¼Œå½¼æ­¤çš„è¡€é‡çš†åœ¨ç•«é¢ä¸Šæ–¹å¯çœ‹è¦‹ï¼Œè‹¥é­åˆ°ç ²å½ˆçˆ†ç‚¸æ”»æ“Šå¾Œï¼Œå‰‡æœƒæ ¹æ“šçŽ©å®¶èˆ‡çˆ†ç‚¸é»žçš„ç›¸å°è·é›¢åšç­‰æ¯”ä¾‹çš„è¨ˆç®—ï¼Œä¸¦é€ æˆå‚·å®³ï¼›å¦å¤–ï¼Œç ²å½ˆä¸åˆ†æ•µæˆ‘ï¼Œè‹¥çŽ©å®¶ä¸å°å¿ƒèˆ‡è‡ªå·±ç™¼å°„çš„ç ²å½ˆæ‰€é€ æˆçš„çˆ†ç‚¸å¤ªéŽæŽ¥è¿‘çš„è©±ä¹Ÿæœ‰å¯èƒ½æœƒé­å—æ³¢åŠã€‚æœ€å¾Œï¼Œå°‡å°æ‰‹æ“Šæ®ºä¾¿å¯è´å¾—è©²å±€åˆ†æ•¸ï¼Œè‹¥çŽ‡å…ˆå–å¾—3åˆ†è€…å‰‡æˆç‚ºè©²å ´éŠæˆ²çš„ç²å‹è€…ã€‚
 
-3. ¹CÀ¸¤¤Cameraªºµø³¥·|ÀHµÛ¨â¥x©Z§Jªº®y¼Ð¦Ó¦³©Ò§ïÅÜ¡A­Y¶V±µªñ«hµø³¥¶V¤p¡A­Y¬Û¶Z¶V»·«h¤Ï¤§¡C
+3. éŠæˆ²ä¸­Cameraçš„è¦–é‡Žæœƒéš¨è‘—å…©å°å¦å…‹çš„åº§æ¨™è€Œæœ‰æ‰€æ”¹è®Šï¼Œè‹¥è¶ŠæŽ¥è¿‘å‰‡è¦–é‡Žè¶Šå°ï¼Œè‹¥ç›¸è·è¶Šé å‰‡åä¹‹ã€‚
 
-¡´ Demo Video
+â— Demo Video
 
-My Youtube Channel¡Ghttps://youtu.be/CP_su4tI9so
+My Youtube Channelï¼šhttps://youtu.be/CP_su4tI9so
