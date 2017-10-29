@@ -1,0 +1,56 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     912 MB
+    Driver:   9.18.13.3165
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\NTHU\遊戲程式設計\GameStudioHW2\HW2_103062104\遊戲程式設計HW2_坦克大戰_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\NTHU\遊戲程式設計\GameStudioHW2\HW2_103062104\遊戲程式設計HW2_坦克大戰_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\NTHU\遊戲程式設計\GameStudioHW2\HW2_103062104\遊戲程式設計HW2_坦克大戰_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\NTHU\遊戲程式設計\GameStudioHW2\HW2_103062104\遊戲程式設計HW2_坦克大戰_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\NTHU\遊戲程式設計\GameStudioHW2\HW2_103062104\遊戲程式設計HW2_坦克大戰_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\NTHU\遊戲程式設計\GameStudioHW2\HW2_103062104\遊戲程式設計HW2_坦克大戰_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\NTHU\遊戲程式設計\GameStudioHW2\HW2_103062104\遊戲程式設計HW2_坦克大戰_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\NTHU\遊戲程式設計\GameStudioHW2\HW2_103062104\遊戲程式設計HW2_坦克大戰_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\NTHU\遊戲程式設計\GameStudioHW2\HW2_103062104\遊戲程式設計HW2_坦克大戰_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\NTHU\遊戲程式設計\GameStudioHW2\HW2_103062104\遊戲程式設計HW2_坦克大戰_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\NTHU\遊戲程式設計\GameStudioHW2\HW2_103062104\遊戲程式設計HW2_坦克大戰_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\NTHU\遊戲程式設計\GameStudioHW2\HW2_103062104\遊戲程式設計HW2_坦克大戰_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.504 seconds
+Platform assembly: D:\NTHU\遊戲程式設計\GameStudioHW2\HW2_103062104\遊戲程式設計HW2_坦克大戰_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\NTHU\遊戲程式設計\GameStudioHW2\HW2_103062104\遊戲程式設計HW2_坦克大戰_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 59Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.742524 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: bd8 -> priority: 1 
+  Thread -> id: 22d8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 23.528835 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 894.
+Total: 2.209751 ms (FindLiveObjects: 0.150000 ms CreateObjectMapping: 0.112500 ms MarkObjects: 1.014480 ms  DeleteObjects: 0.930005 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.192401 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 896.
+Total: 2.081066 ms (FindLiveObjects: 0.129869 ms CreateObjectMapping: 0.118816 ms MarkObjects: 0.901190 ms  DeleteObjects: 0.928821 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.676082 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 896.
+Total: 2.165935 ms (FindLiveObjects: 0.127106 ms CreateObjectMapping: 0.108948 ms MarkObjects: 0.916190 ms  DeleteObjects: 1.010927 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.987407 ms
+
+Unloading 234 unused Assets to reduce memory usage. Loaded Objects now: 298.
+Total: 5.718589 ms (FindLiveObjects: 0.086842 ms CreateObjectMapping: 0.101053 ms MarkObjects: 0.448818 ms  DeleteObjects: 5.079506 ms)
+
