@@ -12,6 +12,8 @@
 
 3. 遊戲中Camera的視野會隨著兩台坦克的座標而有所改變，若越接近則視野越小，若相距越遠則反之。
 
+4. 遊戲引擎：Unity3D
+
 ● Demo Video
 
 My Youtube Channel：https://youtu.be/CP_su4tI9so
